@@ -12,7 +12,7 @@
 
 ⭐️ **Outreach** ~ A few of the things I do: organize open-access [tutorials on AI/ML](https://github.com/matthewcarbone/AIML-tutorials), am a host on the [Python Exchange](https://meetup.doepy.org), and [hackathon](https://hillshacks.com) organizer at my old high school. I am _always_ interested in helping anyone learn about science or computations, so if you feel there is a way we could partner please reach out.
 
-🔭 **What do I do?** ~ Currently, my research lies at the intersection of chemistry/physics/materials science and computations. I apply computational techniques from the computer science, mathematics and statistics communities to solve tough scientific problems. Additionally, I work on and contribute to open-source scientific software.
+🔭 **What do I do?** ~ Currently, my research lies at the intersection of chemistry/physics/materials science and computations. I apply computational techniques from the computer science, mathematics and statistics communities to solve tough scientific problems. Additionally, I work on and contribute to open-source scientific software. See my pinned repositories for a few highlighted examples!
 
 👯 **Work with me!** ~ I am _always_ looking for new collaborations, both on subject matter I am expert in, and also on new research problems where I am not (usually more fun!).
 
