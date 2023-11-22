@@ -6,7 +6,7 @@
   
 </div>
 
-💬 **Who am I?** ~ I am an Assistant Computational Scientist at [Brookhaven National Laboratory](https://www.bnl.gov/world/) since 2021. Previously I was [United States Computational Science Graduate Fellow](https://www.krellinst.org/csgf/) and a graduate student in the [Reichman Group](http://www.columbia.edu/cu/chemistry/groups/reichman/index.html) at Columbia University.
+💬 **Who am I?** ~ I am an Assistant Computational Scientist (equivalent to assistant professor) at [Brookhaven National Laboratory](https://www.bnl.gov/world/) since 2021. Previously I was [United States Computational Science Graduate Fellow](https://www.krellinst.org/csgf/) and a graduate student in the [Reichman Group](http://www.columbia.edu/cu/chemistry/groups/reichman/index.html) at Columbia University.
 
 🎓 **Education** ~ I hold a PhD in chemical physics from Columbia University, as well as a BS in chemistry and BA in physics from the University of Rochester. Before that, I attended Watchung Hills Regional High School in Warren, New Jersey.
 
